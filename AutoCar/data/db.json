@@ -1,0 +1,18 @@
+{
+  "carros": [
+    {
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "ano": "2023",
+      "price": "500.21",
+      "id": "1e5b"
+    },
+    {
+      "id": "17a2",
+      "marca": "Fiat",
+      "modelo": "Uno",
+      "ano": "2023",
+      "price": "500.000"
+    }
+  ]
+}
